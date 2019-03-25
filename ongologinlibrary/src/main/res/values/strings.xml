@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnGoLoginLibrary</string>
+    <string name="network_not_available">Internet not available</string>
+    <string name="facebook_app_id">406549903456064</string>
+    <string name="fb_login_protocol_scheme">fb406549903456064</string>
+
+
+</resources>
